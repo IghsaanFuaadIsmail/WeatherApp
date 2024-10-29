@@ -12,6 +12,14 @@
       [
         "expo-asset"
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "03873248-fdee-4d51-9070-6cca190d508d"
+      }
+    },
+    "android": {
+      "package": "com.rehanai.weatherapp"
+    }
   }
 }
